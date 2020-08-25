@@ -1,6 +1,8 @@
-# Funcionalidades
+## NodeJs with express
 
-## Conexões
+## Funcionalidades
+
+### Conexões
 
 - Rota para listar total de conexões realizadas;
 - Rota para criar uma nova conexão
